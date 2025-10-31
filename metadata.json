@@ -1,0 +1,5 @@
+{
+  "name": "Sierpinski Triangle Generator",
+  "description": "An interactive web application that generates the Sierpinski triangle using the chaos game algorithm. Users can add points iteratively and zoom and pan endlessly to explore the fractal's intricate details.",
+  "requestFramePermissions": []
+}
